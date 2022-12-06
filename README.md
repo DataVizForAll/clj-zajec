@@ -1,8 +1,8 @@
 # dataviz-story-template
 DataVizForAll.org story template using modified Bootstrap
 
-## Live view (replace with your own published link in Settings > Pages)
-https://miazajec9.github.io/Mias-Build-4/
+## Live view
+https://datavizforall.org/clj-zajec
 
-## Instructions
-Read steps inside the `index.html` file
+## forked from
+https://github.com/miazajec9/Mias-Build-4/
